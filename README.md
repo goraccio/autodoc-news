@@ -1,3 +1,8 @@
+# Changelog
+
+## 0.0.1
+- Added bootstrap package 
+
 # AutodocNews
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
